@@ -1,0 +1,10 @@
+{
+    "name": "@scom/scom-network-modal",
+    "type": "widget",
+    "version": "0.1.0",
+    "dependencies": [
+        "@ijstech/components",
+        "@ijstech/eth-wallet",
+        "@scom/scom-network-list"
+    ]
+}
